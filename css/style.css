@@ -1,0 +1,32 @@
+.warna-ku {
+	background-color: #89d0f0;
+}
+
+.warna-nya {
+	border-color: #89d0f0;
+}
+
+.warna-itu{
+	color: #89d0f0;
+}
+
+.contact-me{
+	border-radius: 32px;
+}
+
+.jumbotron{
+	display: flex;
+}
+
+#gambar{
+	width: 40%;
+}
+
+#identitas{
+	width: 60%;
+}
+
+#gambar img {
+	width: 95%;
+	border-radius: 1rem;
+}
